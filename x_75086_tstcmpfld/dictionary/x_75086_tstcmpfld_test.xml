@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test" max_length="40" name="x_75086_tstcmpfld_test" type="collection">
+        <element label="Bar" max_length="40" name="bar" type="string"/>
+        <element label="Foo" max_length="40" name="foo" type="string"/>
+    </element>
+</database>

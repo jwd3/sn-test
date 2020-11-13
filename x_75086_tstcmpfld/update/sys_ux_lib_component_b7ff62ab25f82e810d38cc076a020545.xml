@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_component">
+    <sys_ux_lib_component action="INSERT_OR_UPDATE">
+        <default_children/>
+        <default_layout/>
+        <deprecated>false</deprecated>
+        <overrides/>
+        <required_sys_props/>
+        <required_translation_keys/>
+        <source_script display_value="@vcgtest/field-change-test">e7cd754fac896db1428856a1c195ada0</source_script>
+        <sys_class_name>sys_ux_lib_component</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-23 13:10:37</sys_created_on>
+        <sys_id>b7ff62ab25f82e810d38cc076a020545</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x-75086-field-change-test</sys_name>
+        <sys_package display_value="@vcgtest/field-change-test" source="x_75086_tstcmpfld">089870ff2f8a10107a212c6df699b6ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="@vcgtest/field-change-test">089870ff2f8a10107a212c6df699b6ca</sys_scope>
+        <sys_update_name>sys_ux_lib_component_b7ff62ab25f82e810d38cc076a020545</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-23 16:54:53</sys_updated_on>
+        <tag>x-75086-field-change-test</tag>
+    </sys_ux_lib_component>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Test" language="en" table="x_75086_tstcmpfld_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Test</label>
+            <language>en</language>
+            <name>x_75086_tstcmpfld_test</name>
+            <plural>Tests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-13 21:01:08</sys_created_on>
+            <sys_id>7072a0942fa020107a212c6df699b68f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test</sys_name>
+            <sys_package display_value="@vcgtest/field-change-test" source="x_75086_tstcmpfld">089870ff2f8a10107a212c6df699b6ca</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="@vcgtest/field-change-test">089870ff2f8a10107a212c6df699b6ca</sys_scope>
+            <sys_update_name>sys_documentation_x_75086_tstcmpfld_test__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-13 21:01:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
